@@ -1,0 +1,10 @@
+Ping results for oslomet.no:
+Minimum RTT: mdev = 4.309 ms, Average RTT: 6.265 ms, Maximum RTT: 13.578 ms
+
+Ping results for ox.ac.uk:
+Minimum RTT: mdev = 3.939 ms, Average RTT: 4.805 ms, Maximum RTT: 5.840 ms
+
+Ping results for gaia.cs.umass.edu:
+
+Ping results for sydney.edu.au:
+Minimum RTT: mdev = 277.364 ms, Average RTT: 278.923 ms, Maximum RTT: 281.665 ms

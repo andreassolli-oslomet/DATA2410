@@ -1,0 +1,18 @@
+C:\Users\andre>tracert www.google.com
+
+Tracing route to www.google.com [216.58.207.228]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms     1 ms  OpenWrt.lan [192.168.1.1]
+  2     *        *        *     Request timed out.
+  3     4 ms     3 ms     3 ms  109-163-76-161.telia-isp.no [109.163.76.161]
+  4     3 ms     3 ms     3 ms  109-163-76-160.telia-isp.no [109.163.76.160]
+  5     3 ms     3 ms     3 ms  oso-b1-link.ip.twelve99.net [62.115.175.156]
+  6    11 ms    11 ms     9 ms  s-bb1-link.ip.twelve99.net [62.115.116.101]
+  7    11 ms    11 ms     9 ms  s-b2-link.ip.twelve99.net [62.115.140.215]
+  8    10 ms    12 ms    11 ms  72.14.219.132
+  9    10 ms     9 ms    11 ms  142.251.67.181
+ 10    12 ms    11 ms    11 ms  209.85.242.99
+ 11    11 ms     9 ms    11 ms  arn09s19-in-f4.1e100.net [216.58.207.228]
+
+Trace complete.
